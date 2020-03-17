@@ -1,0 +1,43 @@
+body {
+  color: brown;
+  background-color: lightblue;
+  margin: 0;
+  font-family: sans-serif;
+}
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #8258FA;
+  background-color: #D8D8D8;
+}
+th, td {
+  padding: 15px;
+}
+input[type=text]{
+  border: 2px #170B3B;
+  width: 130px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #A9A9F5;
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+  font-size: 16px;
+  width: 74%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid green;
+  background-color: lightgreen;
+}
+
+input[type=submit] {
+  background-color: #58FA58;
+  padding: 10px 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 2px solid green;
+}
