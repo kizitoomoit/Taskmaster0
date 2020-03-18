@@ -7,6 +7,9 @@ name = "pypi"
 flask = "*"
 flask-sqlalchemy = "*"
 gunicorn = "*"
+flask-scss = "*"
+flask-assets = "*"
+libsass = "*"
 
 [dev-packages]
 
