@@ -1,6 +1,6 @@
 # Taskmaster0
 Its a simple Task manager application created with flask framework
 
-to view the app use this link
+To use the app use the link below
 
 https://youngcoderapp.herokuapp.com/
